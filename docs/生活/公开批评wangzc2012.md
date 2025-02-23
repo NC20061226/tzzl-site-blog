@@ -6,7 +6,7 @@ tags:
   - 剪贴板
 ---
 
-### 由于 [@wangzc2012](https://www.luogu.com.cn/user/1221613) 对 [@tzzl3035](https://www.luogu.com.cn/user/1030559) 的不良言论，因此给予公开批评，内容如下:
+### 由于 @[wangzc2012](https://www.luogu.com.cn/user/1221613) 对 @[tzzl3035](https://www.luogu.com.cn/user/1030559) 的不良言论，因此给予公开批评，内容如下:
 ![](https://cdn.luogu.com.cn/upload/image_hosting/as9bygbw.png)
 #### 最终，其偷偷内卷，取得极好成绩...
 
